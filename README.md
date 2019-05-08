@@ -2,7 +2,7 @@
 
 Knowledge distillation is introduced in a multi-task neural network. The NN used in this set up are: BlitzNet(student), Faster R-CNN(object detection tutor) and Mask R-CNN(semantic segmentation tutor)
 
-## Introduction
+## Description
 
 This repository is a variation of the BlitzNet implementation(https://github.com/dvornikita/blitznet), adapted to process the corresponding soft output of the detection and segmentation tutors.
 
